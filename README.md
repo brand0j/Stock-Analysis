@@ -41,11 +41,10 @@ This was done by taking the nested for loop and splitting it into two separate l
 ![VBA_Challenge_code2](https://github.com/brand0j/Stock-Analysis/blob/main/Resources/VBA_Challenge_code2.PNG)
 
 
-While the output of the table is exactly the same, we can see that the runtime has been significantly reduced:
+-While the output of the table is exactly the same, we can see that the runtime has been significantly reduced:
 
-
+    
 ![VBA_Challenge_2017](https://github.com/brand0j/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
-
 ![VBA_Challenge_2018](https://github.com/brand0j/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 
